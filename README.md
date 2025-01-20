@@ -6,7 +6,7 @@
 
 ## Introduction
 
-**totask** is a collaborative task management application designed for teams to easily manage and track their tasks. Built with **Vue 3** and **TailwindCSS** on the frontend, and **Express.js** and **MongoDB** on the backend, totask simplifies task management with real-time updates, team collaboration, and customizable task boards.
+**TaskNest** is a collaborative task management application designed for teams to easily manage and track their tasks. Built with **Vue 3** and **TailwindCSS** on the frontend, and **Express.js** and **MongoDB** on the backend, totask simplifies task management with real-time updates, team collaboration, and customizable task boards.
 
 Explore the project live: coming soon
 

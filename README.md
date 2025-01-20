@@ -1,4 +1,4 @@
-# totask
+# TaskNest
 
 [![Issues](https://img.shields.io/github/issues/nitishsaikumark/TaskNest)](https://github.com/nitishsaikumark/TaskNest/issues)  
 [![Forks](https://img.shields.io/github/forks/nitishsaikumark/TaskNest)](https://github.com/nitishsaikumark/TaskNest/network/members)  
